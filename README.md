@@ -14,11 +14,11 @@ This is a simple implementation of the classic TicTacToe game in Java.
 
 To run the game, you need to have Java installed on your computer. From the command line, navigate to the directory containing `TicTacToe.java`. Compile the Java file using `javac`:
 
-  javac TicTacToe.java
+  `javac TicTacToe.java`
 
 Then, you can run the game with the `java` command:
 
-  java TicTacToe
+  `java TicTacToe`
 
 ## Features
 
